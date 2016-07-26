@@ -1,0 +1,19 @@
+{
+  "name": "@acornfamily/site",
+  "version": "1.0.0",
+  "description": "Family site, and hobby-hacking project for myself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sprjr/acorn.family.git"
+  },
+  "author": "Stephen Rivas Jr <sprjr@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprjr/acorn.family/issues"
+  },
+  "homepage": "https://github.com/sprjr/acorn.family#readme"
+}
