@@ -1,6 +1,6 @@
 {
   "name": "@acornfamily/site",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Family site, and hobby-hacking project for myself.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/sprjr/acorn.family/issues"
   },
-  "homepage": "https://github.com/sprjr/acorn.family#readme",
+  "homepage": "https://www.acorn.family",
   "devDependencies": {
     "react-scripts": "0.1.0"
   },
