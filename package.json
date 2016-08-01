@@ -4,8 +4,9 @@
   "description": "Family site, and hobby-hacking project for myself.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,11 @@
     "url": "https://github.com/sprjr/acorn.family/issues"
   },
   "homepage": "https://github.com/sprjr/acorn.family#readme",
+  "devDependencies": {
+    "react-scripts": "0.1.0"
+  },
   "dependencies": {
-    "express": "4.14.0"
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
   }
 }
