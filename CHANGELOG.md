@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/) and
 
 ## [Unreleased]
 
+## [1.3.1] 2016-08-08
+- Drop res.redirect() to avoid unnecessary HTTP traffic, instead just serve all routes
+the same static file so the UI can own this portion for now.
+
 ## [1.3.0] 2016-08-08
 - Learned `npm start` was _not_ a deployable static file server, so we've
 reintroduced express, and are using it to serve the new UI assets

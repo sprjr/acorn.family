@@ -6,8 +6,8 @@ const PORT = 2936
 app.use(express.static('build'))
 app.set('views', './build')
 
-app.get('*', function (req, res) {
-  res.redirect('/')
+app.get('*', (req, res) => {
+  res.sendFile(`${process.cwd()}/build/index.html`)
 })
 
 app.listen(PORT, function () {
