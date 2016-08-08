@@ -3,6 +3,14 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/) and
 [Keep a CHANGELOG](http://keepachangelog.com/) as best we can.
 
+## [Unreleased]
+
+## [1.3.0] 2016-08-08
+- Learned `npm start` was _not_ a deployable static file server, so we've
+reintroduced express, and are using it to serve the new UI assets
+- Added output files from `npm run build` so we can utilizes those for the
+deployed package now
+
 ## [1.2.0] 2016-07-31
 - Introduced `create-react-app`, which replaces the node server but enables
 developing the UI in <React />. I believe this is preferable to the initial
