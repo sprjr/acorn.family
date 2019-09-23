@@ -1,29 +1,38 @@
 body {
     margin: 0;
+    height: 100vh;
+    font-size: 1.2rem;
+}
+
+.keyword {
+    color: #1f56ad;
+}
+
+.sf svg path {
+    fill: black;
+}
+
+.orlando svg path {
+    fill: #1f56ad;
+}
+
+.sf svg, .orlando svg {
+    width: 100vw;
+    height: auto;
 }
 
 .sf {
-    background-image: url(sf-skyline.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: bottom right;
     width: 100vw;
-    height: 100vh;
     position: absolute;
     bottom: 0;
-    opacity: 0.2;
+    opacity: 0.3;
     animation: sfFadeOut 1500ms 1 forwards;
     animation-delay: 3000ms;
     pointer-events: none;
 }
 
 .orlando {
-    background-image: url(orlando-skyline.svg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: bottom right;
     width: 100vw;
-    height: 100vh;
     position: absolute;
     bottom: 0;
     opacity: 0;
@@ -33,26 +42,23 @@ body {
 }
 
 @keyframes sfFadeOut {
-    0% {
-        opacity: 0.2;
-    }
-
     100% {
         opacity: 0;
     }
 }
 
 @keyframes mcoFadeIn {
-    0% {
-        opacity: 0;
-    }
-
     100% {
-        opacity: 0.2;
+        opacity: .8;
     }
 }
 
 .about {
-    margin: 5vh 15vw;
-    position: relative;
+    padding: 5vh 15vw;
+    position: absolute;
+}
+
+.about p {
+    background: rgba(241, 241, 241, .7);
+    /* background-color: #f1f1f1; */
 }
