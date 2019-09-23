@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+.sf {
+    background-image: url(sf-skyline.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom right;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    bottom: 0;
+    opacity: 0.2;
+    animation: sfFadeOut 1500ms 1 forwards;
+    animation-delay: 3000ms;
+}
+
+.orlando {
+    background-image: url(orlando-skyline.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom right;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    bottom: 0;
+    opacity: 0;
+    animation: mcoFadeIn 1500ms 1 forwards;
+    animation-delay: 3000ms;
+}
+
+@keyframes sfFadeOut {
+    0% {
+        opacity: 0.2;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes mcoFadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.2;
+    }
+}
+
+.about {
+    margin: 5rem 15rem;
+}
