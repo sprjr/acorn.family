@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sprjr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://acorn.family
+  * I am sprjr (https://keybase.io/sprjr) on keybase.
+  * I have a public key ASAIgsw8u1amWDRV0ynGtnMDbr5CC6UKnH43-fvjETO4-Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200882cc3cbb56a6583455d329c6b673036ebe420ba50a9c7e37f9fbe31133b8f90a",
+      "host": "keybase.io",
+      "kid": "01200882cc3cbb56a6583455d329c6b673036ebe420ba50a9c7e37f9fbe31133b8f90a",
+      "uid": "4340c1e8f96650e15c7c9762e8c3b419",
+      "username": "sprjr"
+    },
+    "merkle_root": {
+      "ctime": 1578171771,
+      "hash": "b3ec9098d43616a7c131f33dc19147839637f5afcbffe5dc8b6b940116abba53b358ff56413898ea3e3ed9ff469db2e23e977b546dd51fb6c193de702d852c3a",
+      "hash_meta": "acb4416a9d4a5de15ce91cd21456158b263b2a716c14b27f9d17f5d4bdaa5658",
+      "seqno": 14085084
+    },
+    "service": {
+      "entropy": "qbt3o0IqGuLriw152JN7Um05",
+      "hostname": "acorn.family",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578171781,
+  "expire_in": 504576000,
+  "prev": "54ddb87ac1246d2b4c99ff670e5537430c6b840b1f564fe7d1395e015ae7a404",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCILMPLtWplg0VdMpxrZzA26+QgulCpx+N/n74xEzuPkKp3BheWxvYWTESpcCCcQgVN24esEkbStMmf9nDlU3QwxrhAsfVk/n0TleAVrnpATEIJ7h7/f9YjY8LJZ4hkdvL0ztfQnc1PEh6ua2cNeXRXRwAgHCo3NpZ8RADE6Gaih9cdQjrTiotw9VPA6OnuqwwuNRdTsf6BuyoPzcQVe091Noxw5WZAs/6HoSX78N4iPdagFWquZUGuU3DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBl5nL7SPBZXcHwOiVZCF88A7DuIc8wqppR4I1VF4YLgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sprjr
+
+==================================================================
