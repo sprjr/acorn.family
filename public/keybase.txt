@@ -1,32 +1,32 @@
 ==================================================================
-https://keybase.io/sprjr
+https://keybase.io/steveyp
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://acorn.family
-  * I am sprjr (https://keybase.io/sprjr) on keybase.
-  * I have a public key ASAIgsw8u1amWDRV0ynGtnMDbr5CC6UKnH43-fvjETO4-Qo
+  * I am steveyp (https://keybase.io/steveyp) on keybase.
+  * I have a public key ASAPLf93KdgeHdsPvvv8BSrri_5EuBWgG0kEDZC4__dsXQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01200882cc3cbb56a6583455d329c6b673036ebe420ba50a9c7e37f9fbe31133b8f90a",
+      "eldest_kid": "01200f2dff7729d81e1ddb0fbefbfc052aeb8bfe44b815a01b49040d90b8fff76c5d0a",
       "host": "keybase.io",
-      "kid": "01200882cc3cbb56a6583455d329c6b673036ebe420ba50a9c7e37f9fbe31133b8f90a",
-      "uid": "4340c1e8f96650e15c7c9762e8c3b419",
-      "username": "sprjr"
+      "kid": "01200f2dff7729d81e1ddb0fbefbfc052aeb8bfe44b815a01b49040d90b8fff76c5d0a",
+      "uid": "95f524c01e49648a73dc599662342f19",
+      "username": "steveyp"
     },
     "merkle_root": {
-      "ctime": 1578171771,
-      "hash": "b3ec9098d43616a7c131f33dc19147839637f5afcbffe5dc8b6b940116abba53b358ff56413898ea3e3ed9ff469db2e23e977b546dd51fb6c193de702d852c3a",
-      "hash_meta": "acb4416a9d4a5de15ce91cd21456158b263b2a716c14b27f9d17f5d4bdaa5658",
-      "seqno": 14085084
+      "ctime": 1578244785,
+      "hash": "ba702ec4fd577c697efc0584c238c91e2f8c0d2f557340652efeb841876500280188b51fa0e3c4987ebe812d6395a543a09116fe7687b4faa01df5f2c49c5abc",
+      "hash_meta": "0d18f05fdd90a281c3789be021c8a22239f1c7d4f164b667fe3d79b32eafc220",
+      "seqno": 14093985
     },
     "service": {
-      "entropy": "qbt3o0IqGuLriw152JN7Um05",
+      "entropy": "bzdxGNAZbXRH0CMiQcM9LnHG",
       "hostname": "acorn.family",
       "protocol": "https:"
     },
@@ -37,20 +37,20 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "5.1.1"
   },
-  "ctime": 1578171781,
+  "ctime": 1578244794,
   "expire_in": 504576000,
-  "prev": "54ddb87ac1246d2b4c99ff670e5537430c6b840b1f564fe7d1395e015ae7a404",
-  "seqno": 9,
+  "prev": "51710aa460f85e96dfaeb22bdd8e0d24a7b9ab1dcad388ff66b04dccc594d9ed",
+  "seqno": 7,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCILMPLtWplg0VdMpxrZzA26+QgulCpx+N/n74xEzuPkKp3BheWxvYWTESpcCCcQgVN24esEkbStMmf9nDlU3QwxrhAsfVk/n0TleAVrnpATEIJ7h7/f9YjY8LJZ4hkdvL0ztfQnc1PEh6ua2cNeXRXRwAgHCo3NpZ8RADE6Gaih9cdQjrTiotw9VPA6OnuqwwuNRdTsf6BuyoPzcQVe091Noxw5WZAs/6HoSX78N4iPdagFWquZUGuU3DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBl5nL7SPBZXcHwOiVZCF88A7DuIc8wqppR4I1VF4YLgo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDy3/dynYHh3bD777/AUq64v+RLgVoBtJBA2QuP/3bF0Kp3BheWxvYWTESpcCB8QgUXEKpGD4XpbfrrIr3Y4NJKe5qx3K04j/ZrBNzMWU2e3EIGMaG26g1itowbfL34YRm5lgUFPqGkY4v+8bSmyWTNZ6AgHCo3NpZ8RAV3WL+KqBeh6dfNMySGVNpL+cAdtifuuhc/ThIUlrB/SYg9A9hmkQSO9ysYu/tD6v4Do+WLX4GmEBttmBHQhEB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICqJzQqdbtvHDnE1w4kpgHnhAmMP4sqL1wtHHB8mVYAqo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/sprjr
+View my publicly-auditable identity here: https://keybase.io/steveyp
 
 ==================================================================
