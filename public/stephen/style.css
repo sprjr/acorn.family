@@ -5,6 +5,17 @@ body {
     height: 100vh;
     line-height: 1.4em;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+*::selection {
+    background-color: #000;
+    color: #fff;
+}
+
+*::-moz-selection {
+    background-color: #000;
+    color: #fff;
 }
 
 .text-invert {
@@ -19,6 +30,7 @@ h1 {
     letter-spacing: 1px;
     line-height: 1.2em;
     text-transform: none;
+    font-family: 'Hepta Slab', serif;
 }
 
 p {
